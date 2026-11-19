@@ -1,0 +1,18 @@
+{
+  "appId": "com.spacerevision.checklist",
+  "appName": "Space Revision Checklist",
+  "webDir": "www",
+  "backgroundColor": "#04142C",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon",
+      "iconColor": "#04142C"
+    }
+  }
+}

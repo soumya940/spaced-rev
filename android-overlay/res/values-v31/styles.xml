@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.NoActionBarLaunch" parent="AppTheme.NoActionBar">
+        <item name="android:windowSplashScreenBackground">#01112D</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#01112D</item>
+    </style>
+</resources>
